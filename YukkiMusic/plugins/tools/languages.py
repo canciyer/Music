@@ -29,11 +29,11 @@ def lanuages_keyboard(_):
             callback_data=f"languages:en",
         ),
         InlineKeyboardButton(
-            text="🇦🇿 Azərbaycan",
+            text="🇦🇿 Azərbaycanca",
             callback_data=f"languages:az",
         ),
         InlineKeyboardButton(
-            text="🇹🇷 Türkiye Türkçesi",
+            text="🇹🇷 Türkçe",
             callback_data=f"languages:tr",
         ),
     )
